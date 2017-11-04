@@ -8,7 +8,7 @@
         public Attachment Attachment
         {
             get;
-            internal set;
+            set;
         }
     }
 }
